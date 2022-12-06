@@ -6,8 +6,8 @@
 
 body {
 	font-family: 'Montserrat', sans-serif;
-	background: #e0e0e0;
-	color: #160a38;
+	background: #200d50;
+	color: #fff;
 }
 
 .contenedor {
@@ -20,16 +20,16 @@ body {
 	gap: 40px;
 }
 
-.contenedor .pelicula {
+.contenedor .movie {
 	text-align: center;
 }
 
-.contenedor .pelicula .titulo {
+.contenedor .movie .title {
 	font-size: 16px;
 	font-weight: 600;
 }
 
-.contenedor .pelicula .poster {
+.contenedor .movie .poster {
 	width: 100%;
 	margin-bottom: 10px;
 	border-radius: 15px;
